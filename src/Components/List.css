@@ -1,0 +1,27 @@
+.List {
+    width: 500px;
+    margin: auto;
+}
+.List li {
+  clear: both;
+}
+input {
+    width: 100%;
+}
+ul,li {
+    margin: 0;
+    padding: 0;
+    font-size: 12px;
+    list-style: none;
+  }
+
+ul li span.name{
+    float: left;
+}
+ul li span.phone {
+    float: right;
+}
+.clearfix {
+    clear: both;
+}
+
